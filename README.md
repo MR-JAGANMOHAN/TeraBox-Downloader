@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Terabox Downloader Bot</h1>
 
 <p align="center">
-<a href="https://t.me/DextiNBots"><img src="https://drive.thedextin.workers.dev/download.aspx?file=tIMySh5aEAcpHGnCnNF%2FxEzrmbN6NrwA26HGG7A8mD%2BJRZnjUh1L80Sf6TyBNG4S&expiry=zcax%2FI7I4TGzbvHJpfEGAw%3D%3D&mac=c583bd83fb433dafde1b4ac24859c6da23439d3822920e805e3e52a860c42243"/></a>
+<a href="https://t.me/Telugu_Babai"><img src="https://drive.thedextin.workers.dev/download.aspx?file=tIMySh5aEAcpHGnCnNF%2FxEzrmbN6NrwA26HGG7A8mD%2BJRZnjUh1L80Sf6TyBNG4S&expiry=zcax%2FI7I4TGzbvHJpfEGAw%3D%3D&mac=c583bd83fb433dafde1b4ac24859c6da23439d3822920e805e3e52a860c42243"/></a>
 
 <p id="description">A telegram bot for downloading terabox videos fastly</p>
 
@@ -91,12 +91,10 @@ python3 main.py
 
 <h1>🔮 Stay In Touch</h1>
 
-- [Telegram](https://t.me/DextiNBots)
+- [Telegram](https://t.me/Telugu_Babai)
 
 <h2>💫 Credits:</h2>
-This bot is updated by <a href="https://t.me/Ninjax_xD">@Ninjax_xD  </a>
-
-This bot is created by <a href="https://t.me/r0ld3x">@r0ld3x  </a>
+This bot is updated by <a href="https://t.me/Telugu_Babai">Professor  </a>
 
 <h2>🍰 Contribution Guidelines:</h2>
 
